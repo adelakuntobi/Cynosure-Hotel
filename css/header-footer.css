@@ -238,6 +238,14 @@ li {
   .toggle .line:last-child {
     transform: rotate(45deg) translate(-5px, -6px);
   }
+  #footer-main .footer-nav ul {
+    display: block;
+    width: 100%;
+  }
+  #footer-main .footer-nav img{
+    margin: auto;
+    margin-left: 0;
+  }
 }
 
 /* FOR SMALL TABLET  */
