@@ -244,7 +244,9 @@ li {
   }
   #footer-main .footer-nav img{
     margin: auto;
-    margin-left: 0;
+  }
+  #footer-main .footer-nav ul li {
+    padding: 5px
   }
 }
 
