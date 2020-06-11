@@ -81,9 +81,10 @@
   }
   .pic-image {
     width: 100%;
-    margin: 0;
+    margin: 20px 10px;
   }
   .flex-2-image {
     width: 25rem;
+    margin: 10px;
   }
 }
