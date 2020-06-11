@@ -79,10 +79,9 @@
     font-size: 15px;
     line-height: 1.5;
   }
-  }
   .pic-image {
-    width: 25rem;
-    /* margin: 20px; */
+    width: 100%;
+    margin: 0;
   }
   .flex-2-image {
     width: 25rem;

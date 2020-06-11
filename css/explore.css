@@ -18,7 +18,7 @@
 }
 .gallery-wrap-photo {
   padding: 3px;
-  max-width: 250px;
+  max-width: 50%;
 }
 
 .cols {
@@ -68,6 +68,13 @@
   cursor: pointer;
 }
 
+
+@media (max-width: 1000px) {
+  .gallery-wrap-photo {
+    padding: 3px;
+    max-width: 80%;
+  }
+}
 @media (max-width: 700px) {
   .cols {
     max-width: 85%;
@@ -76,6 +83,7 @@
     height: auto;
     max-width: 80%;
 }
+
 }
 @media (max-width: 500px) {
   .explore-container {
