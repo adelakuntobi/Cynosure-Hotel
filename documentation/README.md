@@ -1,6 +1,6 @@
-# Hotel Royals
+# CYNOSURE HOTEL
 
-Hotel Royals is a responsive hotel website template.
+Cynosure Hotel is a responsive hotel website template.
 
 ## Template features
 
